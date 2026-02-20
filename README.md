@@ -35,20 +35,6 @@ A mobile-based home services application developed as part of a team internship 
 - Designed Dialogflow intents, entities, and training phrases
 - Integrated SMS notification workflow using Twilio API
 
----
 
-## 🎥 Demo
-
-Demo video: [Add your Google Drive or YouTube link here]
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
-
-## 📌 Note
 
 This project was developed as part of a team internship. This repository highlights my individual contributions to the system.
